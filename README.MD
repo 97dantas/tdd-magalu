@@ -4,4 +4,4 @@
 
 ### Running test
 
-- npm test
+> npm test
