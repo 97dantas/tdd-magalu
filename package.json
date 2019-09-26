@@ -1,0 +1,21 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha tdd.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0",
+    "nodemon": "^1.19.2",
+    "sinon": "^7.5.0",
+    "sinon-chai": "^3.3.0",
+    "sinon-stub-promise": "^4.0.0"
+  }
+}
